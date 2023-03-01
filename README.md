@@ -4,7 +4,9 @@
 
 Count date backwards or forwards.
 
-Here we count date backwards.
+Here we count date backwards 12 days from today's date.
+
+Keyword : date.setDate(-12);  Or 12 to move forwards.
 
 ```
 var date = new Date();
